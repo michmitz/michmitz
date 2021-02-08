@@ -1,4 +1,4 @@
-![profile-header](https://github.com/[michmitz]/[michmitz]/blob/[main]/profile-header..png?raw=true)
+<img src="https://github.com/michmitz/michmitz/blob/main/profile-header.png" alt="Hello! I'm Michelle."/>
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
