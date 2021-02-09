@@ -16,7 +16,6 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 - 🍹 Sipping a tiki drink or fancy cocktail
 - 📷 Taking photos, such as the one to the right (Glacier National Park, MT)
 
-
 ##### I'm currently working on:
 - Collaborating on an interview question flashcard app (React) to help myself and others prepare for interviews.
 - Learning TypeScript, Sequelize, and Ruby on Rails
@@ -26,8 +25,8 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 
 ---
 <img src="https://github.com/michmitz/michmitz/blob/main/contact-me.png" alt="contact-me.png"/>
-<p align="center"><strong>Please reach out!</strong></p>
-<p align="center"><a href="https://michellestermitz.com">My Website</a>      &nbsp;<a href="https://linkedin.com/in/michellestermitz">LinkedIn</a></p>
+<p align="center"><strong>Please reach out via:</strong></p>
+<p align="center"><a href="https://michellestermitz.com">:black_small_square:My Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/michellestermitz">:black_small_square:LinkedIn</a></p>
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
