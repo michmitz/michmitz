@@ -1,4 +1,4 @@
-<img src="https://github.com/michmitz/michmitz/blob/main/profile-header-resized.png" alt="Hello! I'm Michelle."/>
+<img src="https://github.com/michmitz/michmitz/blob/main/profile-header-resized.png" alt="profile-header.png"/>
 
 I am a full-stack software developer, collaborator and creator with experience in React, JavaScript, PostgreSQL, and test-driven development. As a logic enthusiast with a background in design, I love to contribute to the processes that drive an application while dreaming about style possibilities (always starting with fonts). I am always seeking opportunities to collaborate with diverse groups, as I find immense satisfaction in working towards a common goal and learning about others on the way there.
 
@@ -15,6 +15,18 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 - :chess_pawn: Playing a game
 - 🍹 Sipping a tiki drink or fancy cocktail
 - 📷 Taking photos, such as the one to the right (Glacier National Park, MT)
+
+
+##### I'm currently working on:
+- Collaborating on an interview question flashcard app (React) to help myself and others prepare for interviews.
+- Learning TypeScript, Sequelize, and Ruby on Rails
+
+---
+
+<img src="https://github.com/michmitz/michmitz/blob/main/contact-me.png" alt="contact-me.png"/>
+<p align="center"><strong>Please reach out!</strong></p>
+<p align="center"><a href="https://michellestermitz.com">My Website</a></p>
+<p align="center"><a href="https://linkedin.com/in/michellestermitz">LinkedIn</a></p>
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
