@@ -4,14 +4,20 @@ I am a full-stack software developer, collaborator and creator with experience i
 
 I aim to find as much peace as possible in each moment, and my goal as a developer is to create applications that help others do the same.
 
+---
+
+<p align="center">
+
 ##### When I'm not at my computer, I might be:
 - 🌲 Getting outside
 - 🐱 Spending time with pets
 - 🔮 Meditating
 - :chess_pawn: Playing a game
 - 🍹 Sipping a tiki drink or fancy cocktail
+- 📷 Taking and editing photos
 - :shipit: Using this emoji for no reason other than I like it
 
+</p>
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
