@@ -1,6 +1,6 @@
 <img src="https://github.com/michmitz/michmitz/blob/main/profile-header-resized.png" alt="profile-header.png"/>
 
-I am a full-stack software developer, collaborator and creator with experience in React, JavaScript, PostgreSQL, and test-driven development. As a logic enthusiast with a background in design, I love to contribute to the processes that drive an application while dreaming about style possibilities (always starting with fonts). I am always seeking opportunities to collaborate with diverse groups, as I find immense satisfaction in working towards a common goal and learning about others on the way there.
+I am a full-stack software developer, collaborator and creator with experience in React, JavaScript, PostgreSQL, and test-driven development. As a logic enthusiast with a background in design, I love to contribute to the processes that drive an application while dreaming about style possibilities (always starting with fonts). I am always seeking opportunities to collaborate with diverse groups, as I find immense satisfaction in working together towards a common goal and learning more about myself on the way there.
 
 I aim to find as much peace as possible in each moment, and my goal as a developer is to create applications that help others do the same.
 
