@@ -23,12 +23,9 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 
 &nbsp;
 
+---
 
 &nbsp;
-
-
-
----
 
 <img src="https://github.com/michmitz/michmitz/blob/main/contact-me.png" alt="contact-me.png"/>
 <p align="center"><strong>Please reach out!</strong></p>
