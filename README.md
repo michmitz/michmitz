@@ -14,7 +14,7 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 - 🔮 Meditating
 - :chess_pawn: Playing a game
 - 🍹 Sipping a tiki drink or fancy cocktail
-- 📷 Taking photos, such as the one to the right (taken in Glacier National Park, MT)
+- 📷 Taking photos, such as the one to the right (Glacier National Park, MT)
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
