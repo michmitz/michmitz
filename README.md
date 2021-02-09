@@ -21,12 +21,18 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 - Collaborating on an interview question flashcard app (React) to help myself and others prepare for interviews.
 - Learning TypeScript, Sequelize, and Ruby on Rails
 
+&nbsp;
+
+
+&nbsp;
+
+
+
 ---
 
 <img src="https://github.com/michmitz/michmitz/blob/main/contact-me.png" alt="contact-me.png"/>
 <p align="center"><strong>Please reach out!</strong></p>
-<p align="center"><a href="https://michellestermitz.com">My Website</a></p>
-<p align="center"><a href="https://linkedin.com/in/michellestermitz">LinkedIn</a></p>
+<p align="center"><a href="https://michellestermitz.com">My Website</a>      <a href="https://linkedin.com/in/michellestermitz">LinkedIn</a></p>
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
