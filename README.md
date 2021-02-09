@@ -6,7 +6,7 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 
 ---
 
-<p align="center">
+<img align="right" width="250" src="https://github.com/michmitz/michmitz/blob/main/deer.JPG" alt="deer.jpg">
 
 ##### When I'm not at my computer, I might be:
 - 🌲 Getting outside
@@ -14,10 +14,7 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 - 🔮 Meditating
 - :chess_pawn: Playing a game
 - 🍹 Sipping a tiki drink or fancy cocktail
-- 📷 Taking and editing photos
-- :shipit: Using this emoji for no reason other than I like it
-
-</p>
+- 📷 Taking photos, such as the one to the right (taken in Glacier National Park, MT)
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
