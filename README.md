@@ -17,8 +17,8 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 - 📷 Taking photos, such as the one to the right (Glacier National Park, MT)
 
 ##### I'm currently working on:
-- Collaborating on an interview question flashcard app (React) to help myself and others prepare for interviews.
-- Learning TypeScript, Sequelize, and Ruby on Rails
+- Making a fun game in React Native
+- Learning TypeScript!
 
 &nbsp;
 
