@@ -1,6 +1,7 @@
 <img src="https://github.com/michmitz/michmitz/blob/main/profile-header-resized.png" alt="profile-header.png"/>
 
-I am a full-stack software developer, collaborator and creator with experience in React, JavaScript, PostgreSQL, and test-driven development. As a logic enthusiast with a background in design, I love to contribute to the processes that drive an application while dreaming about style possibilities (always starting with fonts). 
+I am a full-stack software developer, collaborator and creator experienced in React, React Native, JavaScript, TypeScript, PostgreSQL, and test-driven development. As a logic enthusiast with a background in design, I love to contribute to the processes that drive an application while dreaming about style possibilities (always starting with fonts). 
+
 I aim to find as much peace as possible in each moment, and my goal as a developer is to create applications that help others do the same.
 
 ---
@@ -11,7 +12,7 @@ I aim to find as much peace as possible in each moment, and my goal as a develop
 - 🌲 Getting outside
 - 🐱 Spending time with pets
 - :chess_pawn: Playing a game
-- 🍹 Sipping a tiki drink or fancy cocktail
+- 🍹 Sipping a tiki drink or cocktail
 - 📷 Taking photos, such as the one to the right (Glacier National Park, MT)
 
 &nbsp;
