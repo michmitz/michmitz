@@ -4,22 +4,6 @@ I am a full-stack software developer, collaborator and creator experienced in Re
 
 I aim to find as much peace as possible in each moment, and my goal as a developer is to create applications that help others do the same.
 
----
-
-<img align="right" width="250" src="https://github.com/michmitz/michmitz/blob/main/deer.JPG" alt="deer.jpg">
-
-##### When I'm not at my computer, I might be:
-- 🌲 Getting outside
-- 🐱 Spending time with pets
-- :chess_pawn: Playing a game
-- 🍹 Sipping a tiki drink or cocktail
-- 📷 Taking photos, such as the one to the right (Glacier National Park, MT)
-
-&nbsp;
-
-
----
-<img src="https://github.com/michmitz/michmitz/blob/main/contact-me.png" alt="contact-me.png"/>
 <p align="center"><strong>Please reach out via:</strong></p>
 <p align="center"><a href="https://michellestermitz.com">:black_small_square:My Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/michellestermitz">:black_small_square:LinkedIn</a></p>
 
