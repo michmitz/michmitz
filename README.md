@@ -5,7 +5,7 @@ I am a full-stack software developer, collaborator and creator experienced in Re
 I aim to find as much peace as possible in each moment, and my goal as a developer is to create applications that help others do the same.
 
 <p align="center"><strong>Please reach out via:</strong></p>
-<p align="center"><a href="https://michellestermitz.com">:black_small_square:My Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/michellestermitz">:black_small_square:LinkedIn</a></p>
+<p align="center"><a href="https://michellestermitz.dev">:link:My Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/michellestermitz">:link:LinkedIn</a></p>
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
