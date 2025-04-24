@@ -1,11 +1,3 @@
-<img src="https://github.com/michmitz/michmitz/blob/main/profile-header-resized.png" alt="profile-header.png"/>
-
-I am a full-stack software developer, collaborator and creator experienced in React, React Native, JavaScript, TypeScript, PostgreSQL, and test-driven development. As a logic enthusiast with a background in design, I love to contribute to the processes that drive an application while dreaming about style possibilities (always starting with fonts). 
-
-I aim to find as much peace as possible in each moment, and my goal as a developer is to create applications that help others do the same.
-
-<p align="center"><strong>Please reach out via:</strong></p>
-<p align="center"><a href="https://michellestermitz.dev">:link:My Website</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/michellestermitz">:link:LinkedIn</a></p>
 
 <!--
 **michmitz/michmitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
